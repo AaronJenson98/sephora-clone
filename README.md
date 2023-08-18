@@ -98,7 +98,7 @@ This 'review_params' private method is used to sanitize and permit only specific
 To get started with Shobha locally, follow these steps:
 
 1. Clone the repository: 
-git clone https://github.com/jasvneet/shobha.git
+git clone https://github.com/jasvneet/shobha.git](https://github.com/AaronJenson98/sephora-clone
 
 2. Install the required dependencies: 
 cd shobha bundle install npm install

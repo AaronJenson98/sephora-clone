@@ -1,0 +1,80 @@
+.brand-name {
+    padding-top: 0.375em;
+    padding-bottom: 0.375em;
+}
+
+.brand-heading {
+    margin-right: 80px;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1em;
+    height: 100%;
+}
+
+.brand-show-link {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.brands-container {
+    width: 100%;
+    max-width: 1280px;
+    padding: 5vw 8vw;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 50vh;
+  
+}
+
+.brand-show-wrapper {
+ padding-left: 12vw;
+ padding-top: 8vh;
+ display: flex;
+ padding-bottom: 3vw;
+
+ 
+ 
+}
+
+.brand-show-container {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.brand-show-item {
+    list-style-type: none;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 14vw;
+    margin-top: 40px;
+ 
+   
+}
+
+.brand-show-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.brand-show-item img {
+    width: 100%;
+}
+.brand-show-item span {
+    padding-bottom: 5px;
+}
+
+.show-link {
+    font-size: 1vw;
+    height: 35px;
+}
+
+.brand-index {
+    font-family: Arial, Helvetica, sans-serif;
+}
